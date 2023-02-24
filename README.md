@@ -1,0 +1,1 @@
+# gql-query-generator
